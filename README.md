@@ -1,6 +1,6 @@
-# Splyt
+# SplytEarn
 
-Splyt is an ad-revenue-sharing site. Visitors check in once a day, invite friends, and receive a proportional share of **50% of the site's ad revenue** each payout cycle, paid in USDT or USDC to a wallet address they provide.
+SplytEarn is an ad-revenue-sharing site. Visitors check in once a day, invite friends, and receive a proportional share of **50% of the site's ad revenue** each payout cycle, paid in USDT or USDC to a wallet address they provide.
 
 There are no accounts, emails, or passwords. A visitor opens the site, enters a payout wallet, and checks in.
 
